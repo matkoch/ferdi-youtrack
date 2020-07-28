@@ -1,0 +1,16 @@
+{
+  "id": "youtrack",
+  "name": "YouTrack",
+  "version": "1.0.0",
+  "description": "youtrack",
+  "main": "index.js",
+  "author": "Matthias Koch <ithrowexceptions@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamId}",
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": true,
+    "hasTeamId": true
+  }
+}
